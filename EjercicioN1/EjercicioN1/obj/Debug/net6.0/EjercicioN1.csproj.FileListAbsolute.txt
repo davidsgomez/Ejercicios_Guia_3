@@ -1,0 +1,14 @@
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\bin\Debug\net6.0\EjercicioN1.exe
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\bin\Debug\net6.0\EjercicioN1.deps.json
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\bin\Debug\net6.0\EjercicioN1.runtimeconfig.json
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\bin\Debug\net6.0\EjercicioN1.dll
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\bin\Debug\net6.0\EjercicioN1.pdb
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.AssemblyInfo.cs
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.dll
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\refint\EjercicioN1.dll
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.pdb
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\EjercicioN1.genruntimeconfig.cache
+C:\Users\david\Documents\Programación II\EjercicioN1\EjercicioN1\obj\Debug\net6.0\ref\EjercicioN1.dll
